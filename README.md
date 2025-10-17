@@ -1,4 +1,4 @@
-# ML Pipeline com GitHub Actions
+# Action da Pipeline de Machine Learning
 
 Este repositório contém um pipeline automatizado de Machine Learning que, a cada push, executa o treinamento de um modelo de classificação e gera um relatório de desempenho.
 
